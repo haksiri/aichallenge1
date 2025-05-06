@@ -1,0 +1,3 @@
+# 이 내용을 requirements.txt 파일에 저장하세요.
+streamlit
+openai>=1.0.0
